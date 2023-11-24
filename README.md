@@ -1,6 +1,7 @@
 # TECHNOHACKS-EDUTECH
 
 Task 3 : Diabetes Prediction
+
 This repository contains code for building an Artificial Neural Network (ANN) model to predict diabetes in individuals. The code utilizes the Pima Indians Diabetes Database, available on Kaggle, and performs data preprocessing, handling of imbalanced data, and model training using TensorFlow/Keras.
 
 Description
