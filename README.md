@@ -1,6 +1,6 @@
-# TECHNOHACKS-EDUTECH
+##TECHNOHACKS-EDUTECH
 
-Task 3 : Diabetes Prediction
+#Task 3 : Diabetes Prediction
 
 This repository contains code for building an Artificial Neural Network (ANN) model to predict diabetes in individuals. The code utilizes the Pima Indians Diabetes Database, available on Kaggle, and performs data preprocessing, handling of imbalanced data, and model training using TensorFlow/Keras.
 
@@ -17,8 +17,20 @@ Model Evaluation: The trained model is evaluated on the test set using accuracy,
 
 Results
 The model achieves an accuracy of approximately 80% on the test set. The classification report shows precision, recall, and F1-score for both the positive and negative classes.
+
+
 ////////////////////////////////////////////////////////////////////////
-Task 6 : Fraud Transaction Detection
+
+
+# Task 4 : Image Classification
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////
+# Task 6 : Fraud Transaction Detection
 Using Neural Networks and Data Sampling for Fraud Transaction Detection
 Fraud detection is a critical task for many industries dealing with online transactions. In this experiment, I used a dataset containing transaction data to build a model for detecting fraudulent transactions.
 
